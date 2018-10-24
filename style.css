@@ -84,6 +84,7 @@ body {
 }
 
 .content .box_text {
+	opacity: 0.95;
 	width: 800px;
 	background-color: #efdecd;
 	float: right;
@@ -100,7 +101,6 @@ body {
 }
 
 .content .box_text1 .button {
-
             background-color: Transparent;
             background-repeat:no-repeat;
             border: none;
